@@ -9,7 +9,7 @@ Licensor grants You such rights in consideration of benefits the Licensor
 receives from making the Licensed Material available under these terms and
 conditions.
 
-## Section 1 – Definitions.
+## Section 1 -- Definitions.
 
 1. **Adapted Material** means material subject to Copyright and Similar Rights
    that is derived from or based upon the Licensed Material and in which the
@@ -56,7 +56,7 @@ obligations under Article 11 of the WIPO Copyright Treaty adopted on December
    You means the individual or entity exercising the Licensed Rights under this
    Public License. Your has a corresponding meaning.
 
-## Section 2 – Scope.
+## Section 2 -- Scope.
 
 ### License grant.
 
@@ -80,7 +80,7 @@ do so. The Licensor waives and/or agrees not to assert any right or authority to
     simply making modifications authorized by this Section 2(a)(4) never
     produces Adapted Material.
 1. _Downstream recipients_.
-   - _Offer from the Licensor – Licensed Material_. Every recipient of the
+   - _Offer from the Licensor -- Licensed Material_. Every recipient of the
      Licensed Material automatically receives an offer from the Licensor to
      exercise the Licensed Rights under the terms and conditions of this Public
      License.
@@ -109,7 +109,7 @@ do so. The Licensor waives and/or agrees not to assert any right or authority to
    licensing scheme. In all other cases the Licensor expressly reserves any
    right to collect such royalties.
 
-## Section 3 – License Conditions.
+## Section 3 -- License Conditions.
 
 Your exercise of the Licensed Rights is expressly made subject to the following
 conditions.
@@ -142,7 +142,7 @@ conditions.
    must not prevent recipients of the Adapted Material from complying with this
    Public License.
 
-## Section 4 – Sui Generis Database Rights.
+## Section 4 -- Sui Generis Database Rights.
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your
 use of the Licensed Material:
@@ -160,7 +160,7 @@ For the avoidance of doubt, this Section 4 supplements and does not replace Your
 obligations under this Public License where the Licensed Rights include other
 Copyright and Similar Rights.
 
-## Section 5 – Disclaimer of Warranties and Limitation of Liability.
+## Section 5 -- Disclaimer of Warranties and Limitation of Liability.
 
 - **Unless otherwise separately undertaken by the Licensor, to the extent
   possible, the Licensor offers the Licensed Material as-is and as-available,
@@ -183,7 +183,7 @@ Copyright and Similar Rights.
   be interpreted in a manner that, to the extent possible, most closely
   approximates an absolute disclaimer and waiver of all liability.
 
-## Section 6 – Term and Termination.
+## Section 6 -- Term and Termination.
 
 - This Public License applies for the term of the Copyright and Similar Rights
   licensed here. However, if You fail to comply with this Public License, then
@@ -207,7 +207,7 @@ Copyright and Similar Rights.
   [8](https://creativecommons.org/licenses/by/4.0/legalcode#s8) survive
   termination of this Public License.
 
-## Section 7 – Other Terms and Conditions.
+## Section 7 -- Other Terms and Conditions.
 
 - The Licensor shall not be bound by any additional or different terms or
   conditions communicated by You unless expressly agreed.
@@ -215,7 +215,7 @@ Copyright and Similar Rights.
   Material not stated herein are separate from and independent of the terms and
   conditions of this Public License.
 
-## Section 8 – Interpretation.
+## Section 8 -- Interpretation.
 
 - For the avoidance of doubt, this Public License does not, and shall not be
   interpreted to, reduce, limit, restrict, or impose conditions on any use of
