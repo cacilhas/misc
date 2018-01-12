@@ -1,6 +1,7 @@
-# ℭacilhας.INFO blog/files
+# ℭacilhας.INFO `/misc`
 
-Arquivos usado pelos *blogs* em [ℭacilhας.INFO](http://cacilhas.info/).
+Miscelânea de arquivos usado pelos *blogs* em
+[ℭacilhας.INFO](http://cacilhas.info/).
 
 ## Blogs
 
@@ -15,4 +16,4 @@ Os arquivos aqui são licenciados sob
 [Creative Commons Atribuição 4.0 Não Adaptada](http://cacilhas.info/copying.html).
 
 O arquivo de código da lincença também encontra-se
-[neste repositório](http://cacilhas.info/blog-files/COPYING.md).
+[neste repositório](http://cacilhas.info/misc/COPYING.md).
