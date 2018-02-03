@@ -9,8 +9,8 @@ module Collatz
 
     struct Iter
         value::UInt
-        Iter(value::UInt) = (value ≡ zero(value)) ?
-        throw(InexactError()) : new(value)
+        Iter(value::UInt) = value ≡ zero(value) ?
+            throw(InexactError()) : new(value)
         Iter(value::Integer) = value |> UInt |> Iter
     end
 
