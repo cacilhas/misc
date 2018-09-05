@@ -10,6 +10,10 @@ Os *blogs* são:
 1. [Reflexões de ℳontegasppα e Giulia C.](http://cacilhas.info/montegasppa/)
 1. [Kodumaro](http://cacilhas.info/kodumaro/)
 
+## Repositório Git
+
+[urn:github.com:cacilhas/misc.git](https://github.com/cacilhas/misc)
+
 ## Licença
 
 Os arquivos aqui são licenciados sob
