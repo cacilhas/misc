@@ -1,23 +1,23 @@
 # ℭacilhας.INFO `/misc`
 
-Miscelânea de arquivos usado pelos *blogs* em
+
+Miscellaneous files used by blogs under
 [ℭacilhας.INFO](http://cacilhas.info/).
 
 ## Blogs
 
-Os *blogs* são:
+The blogs:
 
-1. [Reflexões de ℳontegasppα e Giulia C.](http://cacilhas.info/montegasppa/)
+1. [ℳontegasppα e Giulia C.’ Thoughts](http://cacilhas.info/montegasppa/)
 1. [Kodumaro](http://cacilhas.info/kodumaro/)
 
-## Repositório Git
+## Git repository
 
-[urn:github.com:cacilhas/misc.git](https://github.com/cacilhas/misc)
+[urn:git:github:cacilhas/misc.git](https://github.com/cacilhas/misc)
 
-## Licença
+## License
 
-Os arquivos aqui são licenciados sob
-[Creative Commons Atribuição 4.0 Não Adaptada](http://cacilhas.info/copying.html).
+All files are licensed under
+[Creative Commons Attribution 4.0 International](http://cacilhas.info/copying.html).
 
-O arquivo de código da lincença também encontra-se
-[neste repositório](http://cacilhas.info/misc/COPYING.md).
+The license file can be found [here](http://cacilhas.info/misc/COPYING.md) too.
