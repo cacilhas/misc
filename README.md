@@ -8,8 +8,8 @@ Miscellaneous files used by blogs under
 
 The blogs:
 
-1. [ℳontegasppα e Giulia C.’ Thoughts](http://cacilhas.info/montegasppa/)
-1. [Kodumaro](http://cacilhas.info/kodumaro/)
+1. [ℳontegasppα e Giulia C.’ Thoughts](http://montegasppa.cacilhas.info/)
+1. [Kodumaro](http://kodumaro.cacilhas.info/)
 
 ## Git repository
 
