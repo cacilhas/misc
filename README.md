@@ -2,14 +2,14 @@
 
 
 Miscellaneous files used by blogs under
-[ℭacilhας.INFO](http://cacilhas.info/).
+[ℭacilhας.INFO](https://cacilhas.info/).
 
 ## Blogs
 
 The blogs:
 
-1. [ℳontegasppα e Giulia C.’ Thoughts](http://montegasppa.cacilhas.info/)
-1. [Kodumaro](http://kodumaro.cacilhas.info/)
+1. [ℳontegasppα e Giulia C.’ Thoughts](https://montegasppa.cacilhas.info/)
+1. [Kodumaro](https://kodumaro.cacilhas.info/)
 
 ## Git repository
 
