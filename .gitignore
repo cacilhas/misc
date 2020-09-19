@@ -1,8 +1,5 @@
-*.swo
-*.swp
 *~
-
-.DS_Store
-.vscode
-
+.*
 /tmp
+!.gitignore
+!.nojekyll
