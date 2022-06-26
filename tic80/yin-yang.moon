@@ -11,16 +11,14 @@ rm=3
 rM=20
 yin=15
 yang=12
-fst_tick=true
+
+BOOT=cls
 
 SCN==>
  poke 0x3fc1,@
  poke 0x3fc2,@+120
 
 TIC=->
- if fst_tick
-  cls!
-  fst_tick=false
  c1=x:c.x+cos(angle)*rM,y:c.y+sin(angle)*rM
  a2=angle+pi
  c2=x:c.x+cos(a2)*rM,y:c.y+sin(a2)*rM
