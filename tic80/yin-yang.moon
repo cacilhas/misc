@@ -2,9 +2,10 @@
 -- author: Kodumaro
 -- script: moon
 export ^
+local  *
 
+import sin,cos,pi from math
 c=x:120,y:68
-:sin,:cos,:pi=math
 tau=pi*2
 angle=0
 rm=3
