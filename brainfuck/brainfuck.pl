@@ -1,5 +1,5 @@
 ﻿% -*- Prolog -*-
-% @copyright ©2017, Rodrigo Cacilhας <batalema@cacilhas.info>
+% @copyright ©2017, Rodrigo Cacilhας <montegasppa@cacilhas.info>
 :- [parser, library(main)].
 
 main([Filename]) :- parse(Filename).

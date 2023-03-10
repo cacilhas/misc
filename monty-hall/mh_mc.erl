@@ -1,11 +1,11 @@
 %%%=============================================================================
-%%% @author ℜodrigo Arĥimedeς ℳontegasppα ℭacilhας <batalema@cacilhas.info>
+%%% @author ℜodrigo Arĥimedeς ℳontegasppα ℭacilhας <montegasppa@cacilhas.info>
 %%%         [http://cacilhas.info/kodumaro/]
 %%% @copyright ©2016, ℜodrigo ℭacilhας
 %%% @end
 %%%=============================================================================
 -module(mh_mc).
--author('batalema@cacilhas.info').
+-author('montegasppa@cacilhas.info').
 -behavior(gen_server).
 
 -export([start_link/0, stop/0, get_prize/1, suggest_another_door/1]).

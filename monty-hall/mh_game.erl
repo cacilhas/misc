@@ -1,5 +1,5 @@
 %%%=============================================================================
-%%% @author ℜodrigo Arĥimedeς ℳontegasppα ℭacilhας <batalema@cacilhas.info>
+%%% @author ℜodrigo Arĥimedeς ℳontegasppα ℭacilhας <montegasppa@cacilhas.info>
 %%%         [http://cacilhas.info/kodumaro/]
 %%% @copyright ©2016, ℜodrigo ℭacilhας
 %%% @doc
@@ -7,7 +7,7 @@
 %%% @end
 %%%=============================================================================
 -module(mh_game).
--author('batalema@cacilhas.info').
+-author('montegasppa@cacilhas.info').
 -export([play/0, play/1]).
 
 -define(ROUNDS, 1000).

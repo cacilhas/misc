@@ -1,11 +1,11 @@
 %%%=============================================================================
-%%% @author Rodrigo Cacilhας <batalema@cacilhas.info>
+%%% @author Rodrigo Cacilhας <montegasppa@cacilhas.info>
 %%%         [http://cacilhas.info/kodumaro/]
 %%% @copyright ©2016, Rodrigo Cacilhας
 %%% @end
 %%%=============================================================================
 -module(mh_guest).
--author('batalema@cacilhas.info').
+-author('montegasppa@cacilhas.info').
 -export([choose/0, change/2]).
 
 -include("mh.hrl").

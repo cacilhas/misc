@@ -1,5 +1,5 @@
 ﻿% -*- Prolog -*-
-% @copyright ©2017, Rodrigo Cacilhας <batalema@cacilhas.info>
+% @copyright ©2017, Rodrigo Cacilhας <montegasppa@cacilhas.info>
 :- module(utils, [finally/2, optional/1]).
 :- meta_predicate optional(0), finally(1, +).
 :- dynamic side_effect/0.  % for tests purposes

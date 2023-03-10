@@ -1,5 +1,5 @@
 ﻿% -*- Prolog -*-
-% @copyright ©2017, Rodrigo Cacilhας <batalema@cacilhas.info>
+% @copyright ©2017, Rodrigo Cacilhας <montegasppa@cacilhas.info>
 :- module(memory, [get_slot/2, set_slot/2, incr_slot/1, decr_slot/1,
                    next_slot/1, prev_slot/1]).
 :- [utils].

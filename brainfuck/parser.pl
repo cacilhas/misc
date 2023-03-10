@@ -1,5 +1,5 @@
 ﻿% -*- Prolog -*-
-% @copyright ©2017, Rodrigo Cacilhας <batalema@cacilhas.info>
+% @copyright ©2017, Rodrigo Cacilhας <montegasppa@cacilhas.info>
 :- module(parser, [parse/1]).
 :- [tape, memory,  utils].
 

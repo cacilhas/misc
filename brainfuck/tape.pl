@@ -1,5 +1,5 @@
 ﻿% -*- Prolog -*-
-% @copyright ©2017, Rodrigo Cacilhας <batalema@cacilhas.info>
+% @copyright ©2017, Rodrigo Cacilhας <montegasppa@cacilhas.info>
 :- module(tape, [create_tape/2, read_tape/2, tape_backward/1, end_of_tape/1,
           start_of_tape/1]).
 
