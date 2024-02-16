@@ -626,7 +626,7 @@ gdjs.copyArray(gdjs.Race_32sceneCode.GDTopArrowButtonObjects2_1final, gdjs.Race_
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(9115684);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10760468);
 }
 }
 if (isConditionTrue_0) {
@@ -678,7 +678,7 @@ gdjs.copyArray(gdjs.Race_32sceneCode.GDBottomArrowButtonObjects2_1final, gdjs.Ra
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(9022764);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10762788);
 }
 }
 if (isConditionTrue_0) {
